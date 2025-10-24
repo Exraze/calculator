@@ -1,2 +1,16 @@
 # calculator
 My first project on c++ (3rd week studying)
+OPERATIONS:
+0. ENDING PROGRAM
+1. SUMMARY
+2. SUBTRACTION
+3. DIVISION
+4. MULTIPLICATION
+5. FACTORIAL
+6. POWER
+7. SQRT
+8. SQUARE
+9. CUBE
+10. FUNCTION: f(x) = (10*(x^3) + 3.1415*(x^2))*((x/3)-(1/(x^2)))
+11. PERIMETER OF TRIANGLE
+12. AREA OF TRIANGLE
