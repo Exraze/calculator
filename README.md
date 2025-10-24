@@ -1,6 +1,7 @@
 # calculator
 My first project on c++ (3rd week studying)
 OPERATIONS:
+
 0. ENDING PROGRAM
 1. SUMMARY
 2. SUBTRACTION
